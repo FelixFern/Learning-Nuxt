@@ -1,5 +1,5 @@
 # learning_nuxt
-
+followed tutorial on youtube : https://www.youtube.com/watch?v=Wdmi4k7sFzU&t=4316s
 ## Build Setup
 
 ```bash
